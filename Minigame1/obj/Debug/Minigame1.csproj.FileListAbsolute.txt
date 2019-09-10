@@ -1,0 +1,9 @@
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\bin\Debug\Minigame1.exe.config
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\bin\Debug\Minigame1.exe
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\bin\Debug\Minigame1.pdb
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\obj\Debug\Minigame1.csprojResolveAssemblyReference.cache
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\obj\Debug\Minigame1.Properties.Resources.resources
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\obj\Debug\Minigame1.csproj.GenerateResource.Cache
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\obj\Debug\Minigame1.exe
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\obj\Debug\Minigame1.pdb
+D:\Cs\CS 232\Assignments\Minigame1\Minigame1\obj\Debug\Minigame1.stage1balls.resources
